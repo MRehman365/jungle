@@ -133,6 +133,8 @@ const Birds = () => {
               className="w-full h-auto rounded-lg mt-4"
             />
           </div>
+          
+        <div><p>Hello World</p></div>
         </div>
       )}
     </div>
